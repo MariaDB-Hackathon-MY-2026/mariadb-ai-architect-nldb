@@ -1,10 +1,29 @@
 # MariaDB-AI-Architecture-2026
 
-AI-powered database workspace for MariaDB — design schemas, run migrations, browse data, and visualize relationships, all in plain English.
+<p align="center">
+  <img src="asset/mariadb-logo.svg" alt="MariaDB AI Architect" width="320" />
+</p>
 
-Built with **React + FastAPI + Ollama** (local LLM, no cloud required).
+<h1 align="center">MariaDB AI Architect</h1>
+
+<p align="center">
+  AI-powered database workspace — design schemas, run migrations, browse data, and visualize relationships, all in plain English.
+</p>
+
+<p align="center">
+  <img src="asset/badge-mariadb.svg" alt="MariaDB" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-0.111-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ollama-local_LLM-black?style=flat" alt="Ollama" />
+</p>
 
 📖 **Documentation:** [docs-maria-db-ai.vercel.app](https://docs-maria-db-ai.vercel.app)
+
 
 ---
 
