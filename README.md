@@ -4,7 +4,9 @@
   <img src="asset/mariadb-logo.svg" alt="MariaDB AI Architect" width="320" />
 </p>
 
-<h1 align="center">MariaDB AI Architect</h1>
+<h1 align="center">
+MariaDB AI Architect – 404Labs – Universiti Poly-Tech Malaysia
+</h1>
 
 <p align="center">
   AI-powered database workspace — design schemas, run migrations, browse data, and visualize relationships, all in plain English.
